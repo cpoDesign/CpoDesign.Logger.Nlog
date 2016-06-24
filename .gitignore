@@ -4,3 +4,5 @@
 
 /.vs/CpoDesign.Logger.Nlog/v14
 /CpoDesign.Logger.Nlog/obj/Debug
+/CpoDesign.Logger.Nlog/bin/Debug
+/packages
